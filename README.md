@@ -126,7 +126,6 @@ mini-project-6/
   ├── test/
   └── valid/
 ├── requirements.txt
-├── .gitignore
 └── README.md
 ```
 

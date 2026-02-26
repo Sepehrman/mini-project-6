@@ -2,7 +2,7 @@
 
 **COMP 9130 — Applied Artificial Intelligence**
 
-A transfer learning project applying **feature extraction** and **fine-tuning** to flower species classification using the Oxford 102 Flowers dataset. Both ResNet50 and EfficientNetB0 are compared across both strategies.
+A transfer learning project applying feature extraction and fine-tuning to flower species classification using the Oxford 102 Flowers dataset. Both ResNet50 and EfficientNetB0 are compared across both strategies.
 
 ---
 
